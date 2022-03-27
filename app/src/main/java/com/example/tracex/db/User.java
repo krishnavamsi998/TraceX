@@ -22,8 +22,9 @@ public class User {
 
     }
 
-
-    public boolean equals(@Nullable User obj) {
+    @Override
+    public boolean equals(@Nullable Object obj) {
+        obj = (User)obj;
         assert obj != null;
         return this.name.equals(((User) obj).getName()) && this.email.equals(((User) obj).getEmail()) && this.phone.equals(((User) obj).getPhone());
     }
