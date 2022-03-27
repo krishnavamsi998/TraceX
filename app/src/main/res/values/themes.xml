@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="edit_text_custom_style">
+    <style name="edit_text_desc_style">
         <item name="android:textColor">@color/black</item>
         <item name="android:textStyle">bold</item>
     </style>

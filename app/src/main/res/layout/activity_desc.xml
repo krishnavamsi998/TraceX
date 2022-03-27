@@ -28,6 +28,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:enabled="false"
+            style="@style/edit_text_desc_style"
             tools:text="Name"
             tools:ignore="Autofill,LabelFor,TextFields"
              />
@@ -52,7 +53,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:enabled="false"
-            tools:text="Name"
+            tools:text="Email"
+            style="@style/edit_text_desc_style"
             tools:ignore="Autofill,LabelFor,TextFields" />
 
 
@@ -74,8 +76,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:enabled="false"
-            tools:text="Name"
-            android:autofillHints="blank"
+            tools:text="Phone"
+            style="@style/edit_text_desc_style"
             tools:ignore="Autofill,LabelFor,TextFields"/>
 
 
