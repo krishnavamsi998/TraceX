@@ -8,4 +8,6 @@
     <string name="name_field">Name:</string>
     <string name="title">Title</string>
     <string name="fab_content_description">Add new user data to the list</string>
+    <string name="email_field">Email:</string>
+    <string name="phone_field">Phone:</string>
 </resources>
