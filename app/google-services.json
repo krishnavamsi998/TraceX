@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "255775270101",
+    "firebase_url": "https://tracex-12cee-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tracex-12cee",
+    "storage_bucket": "tracex-12cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255775270101:android:7022f819da6eb34d1a6e5c",
+        "android_client_info": {
+          "package_name": "com.example.testing3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255775270101-133fk5vo89f8isn8tt77sgruoojmf982.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQMuh2hL7FmtExc7cDGoTvR80teUWbN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255775270101-133fk5vo89f8isn8tt77sgruoojmf982.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255775270101:android:d9d64c88f4baee051a6e5c",
+        "android_client_info": {
+          "package_name": "com.example.tracex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255775270101-133fk5vo89f8isn8tt77sgruoojmf982.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQMuh2hL7FmtExc7cDGoTvR80teUWbN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255775270101-133fk5vo89f8isn8tt77sgruoojmf982.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
